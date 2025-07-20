@@ -1,3 +1,3 @@
 # C++
 
-- 🧰 A Cpp repository destinated to archive my study and own projects. Prone to changes and more.
+- 🧰 A C++ repository destinated to archive my study and own projects. Prone to changes and more.
